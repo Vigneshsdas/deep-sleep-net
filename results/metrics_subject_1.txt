@@ -1,0 +1,14 @@
+Accuracy for test subject 1: 87.04 %
+
+Classification report for test subject 1:
+               precision    recall  f1-score   support
+
+           0       0.90      0.97      0.93       100
+           1       0.75      0.78      0.76        72
+           2       0.80      0.89      0.84       303
+           3       0.91      0.89      0.90       305
+           4       0.96      0.80      0.87       231
+
+    accuracy                           0.87      1011
+   macro avg       0.86      0.87      0.86      1011
+weighted avg       0.88      0.87      0.87      1011
